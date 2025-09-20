@@ -1,0 +1,12 @@
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\bin\Debug\net8.0\Balan.TaskPlanner.Domain.Models.deps.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\bin\Debug\net8.0\Balan.TaskPlanner.Domain.Models.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\bin\Debug\net8.0\Balan.TaskPlanner.Domain.Models.pdb
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.sourcelink.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Balan.TaskPlanner.Domain.Models.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Models.pdb
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Balan.TaskPlanner.Domain.Models.dll

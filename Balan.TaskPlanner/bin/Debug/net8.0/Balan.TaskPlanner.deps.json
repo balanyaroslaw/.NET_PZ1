@@ -7,14 +7,47 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Balan.TaskPlanner/1.0.0": {
+        "dependencies": {
+          "Balan.TaskPlanner.Domain.Logic": "1.0.0",
+          "Balan.TaskPlanner.Domain.Models": "1.0.0"
+        },
         "runtime": {
           "Balan.TaskPlanner.dll": {}
+        }
+      },
+      "Balan.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "Balan.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Balan.TaskPlanner.Domain.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Balan.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Balan.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Balan.TaskPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balan.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balan.TaskPlanner.Domain.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

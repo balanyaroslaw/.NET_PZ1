@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Balan.TaskPlanner.Domain.Logic\Balan.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\Balan.TaskPlanner.Domain.Models\Balan.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>
