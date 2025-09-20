@@ -1,0 +1,14 @@
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\bin\Debug\net8.0\Balan.TaskPlanner.exe
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\bin\Debug\net8.0\Balan.TaskPlanner.deps.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\bin\Debug\net8.0\Balan.TaskPlanner.runtimeconfig.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\bin\Debug\net8.0\Balan.TaskPlanner.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\bin\Debug\net8.0\Balan.TaskPlanner.pdb
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.AssemblyInfo.cs
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\refint\Balan.TaskPlanner.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.pdb
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\Balan.TaskPlanner.genruntimeconfig.cache
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner\obj\Debug\net8.0\ref\Balan.TaskPlanner.dll
