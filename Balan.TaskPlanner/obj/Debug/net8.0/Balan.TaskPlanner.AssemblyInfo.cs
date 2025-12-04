@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Balan.TaskPlanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e121c8b28dccde4761b27a7fb82cbffbb9eb53cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11fe9a64c632e037cf30447e014c9588ab63ea95")]
 [assembly: System.Reflection.AssemblyProductAttribute("Balan.TaskPlanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Balan.TaskPlanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

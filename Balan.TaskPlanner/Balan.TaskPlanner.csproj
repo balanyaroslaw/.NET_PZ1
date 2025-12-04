@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Balan.TaskPlanner.DataAccess\Balan.TaskPlanner.DataAccess.csproj" />
     <ProjectReference Include="..\Balan.TaskPlanner.Domain.Logic\Balan.TaskPlanner.Domain.Logic.csproj" />
     <ProjectReference Include="..\Balan.TaskPlanner.Domain.Models\Balan.TaskPlanner.Domain.Models.csproj" />
   </ItemGroup>

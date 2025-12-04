@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0cGoilITj1c=",
+  "dgSpecHash": "y/KYG6V9c8A=",
   "success": true,
   "projectFilePath": "C:\\Users\\Yaroslav\\source\\repos\\Balan.TaskPlanner\\Balan.TaskPlanner\\Balan.TaskPlanner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yaroslav\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

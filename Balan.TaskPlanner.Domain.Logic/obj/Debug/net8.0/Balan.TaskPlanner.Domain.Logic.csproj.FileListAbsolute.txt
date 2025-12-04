@@ -14,3 +14,11 @@ C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\
 C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Balan.TaskPlanner.Domain.Logic.dll
 C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Balan.TaskPlanner.Domain.Logic.pdb
 C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Balan.TaskPlanner.Domain.Logic.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.DataAccess.Abstractions.runtimeconfig.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.Domain.Models.deps.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.Domain.Models.runtimeconfig.json
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.Domain.Models.exe
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.DataAccess.Abstractions.exe
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Yaroslav\source\repos\Balan.TaskPlanner\Balan.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Balan.TaskPlanner.DataAccess.Abstractions.pdb
